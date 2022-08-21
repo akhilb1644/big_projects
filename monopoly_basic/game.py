@@ -138,7 +138,7 @@ class Title_Deed(Property):
         factor = 1
         count = 0
         if self.owner is not None:
-            for p in self.owner.rails:
+            for p in self.owner.title_deeds:
                 if p.color == 'Blue' or p.color == 'Brown':
                     count += 1
                     if count == 2:
