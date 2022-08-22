@@ -448,7 +448,6 @@ while True:
                 if plan == 1:
                     selling_time(player)
 
-            player.properties = player.rails + player.utils + player.title_deeds
             if len(player.properties) != 0:
                 print(f"{player.name}, you have ${player.money}, and your properties are: ")
                 for p in player.properties:
