@@ -38,7 +38,7 @@ tenth_one = dataset.iloc[:, :-1].values
 tenth_pred = regressor.predict(tenth_one)
 yp = tenth_pred
 
-plt.title("Predicted Individualized Learning Rating vs Class Size\nfor 10th Grade(lower) vs 4th Grade(higher)")
+plt.title("Predicted Individualized Learning Rating vs Class Size\nfor 10th Grade(lower) vs 4th Grade(higher) in core subjects")
 plt.xlabel("Class Size")
 plt.ylabel("Predicted Individualized Learning Rating(1-10)")
 
