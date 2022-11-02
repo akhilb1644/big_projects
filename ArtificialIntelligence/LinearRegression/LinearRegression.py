@@ -1,3 +1,7 @@
+"""
+As a disclaimer, I originally envisioned this as a Neural Network. But, I got much less data than I need for a neural network. Therefore, I had to use a 
+linear regression.
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
