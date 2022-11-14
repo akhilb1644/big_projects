@@ -9,9 +9,6 @@ def search_list(list, item):
             return list.index(obj)
     return 0
 
-def search_color_props(color):
-    pass
-
 class player:
     def __init__(self,name,position,jail_state,money,chest,chance,utils,rails,title_deeds):
         self.name = name
