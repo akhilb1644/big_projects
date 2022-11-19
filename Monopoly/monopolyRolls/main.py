@@ -1,3 +1,7 @@
+"""
+The purpose of this program is to simulate dice rolls in the game monopoly, which means no doubles.
+"""
+
 from random import randint
 import plotly.graph_objects as go
 
