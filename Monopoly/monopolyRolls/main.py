@@ -22,3 +22,6 @@ for i in range(1000000):
 
 graph = go.Figure([go.Bar(x=list(rolls.keys()), y=list(rolls.values()))])
 graph.write_html("monopoly_rolls.html")
+"""
+The roll data is in the html file. If you download that, you will be able to see the graph.
+"""
