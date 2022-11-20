@@ -7,11 +7,7 @@ to_append = 0
 FOOD = 10**6
 cells = list()
 cells.append(Cell(500,1000,False,0))
-average_ages = list()
-days = list()
-populations = list()
-lifespans = list()
-pandemics = list()
+average_ages,days,populations,lifespans,pandemics = list(),list(),list(),list(),list()
 
 for i in range(500):
     food = FOOD
