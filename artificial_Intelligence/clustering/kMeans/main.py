@@ -5,7 +5,7 @@ from sklearn.preprocessing import Normalizer
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as ppt
 
-data = pd.read_csv(r"C:\Users\akhil\Downloads\My PC (DESKTOP-1SSKE7P)\Downloads\CollegeAndAgeInJob.csv")
+data = pd.read_csv(r"CollegeAndAgeInJob.csv")
 x = data.iloc[:,:].values
 xtn,xtt = tts(x,test_size=0.25,random_state=4)
 
