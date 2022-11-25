@@ -7,7 +7,7 @@ is that we are finding patterns between the two parameters: age and salary.
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split as tts
-from sklearn.preprocessing import Normalizer
+from sklearn.preprocessing import Normalizer # Normalization is a scaling technique that is in reference with the mean of a data set.
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as ppt
 
