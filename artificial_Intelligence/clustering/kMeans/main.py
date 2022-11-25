@@ -1,3 +1,9 @@
+"""
+The purpose of this program is to create a program out of data that will cluster it into groups. That is KMeansClustering.
+
+K Means clustering uses centroids that will be used to cluster the data. This is an unsupervised learning algorithm meaning that essentially, all that is happening
+is that we are finding patterns between the two parameters: age and salary.
+"""
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split as tts
