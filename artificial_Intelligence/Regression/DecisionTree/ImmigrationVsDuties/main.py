@@ -20,6 +20,7 @@ y = data.iloc[:,-1].values
 # Test Training Split
 xtn,xtt,ytn,ytt = tts(x,y,test_size=0.25,random_state=4)
 
-# Scaling the data
-stsclr = StandardScaler()
-sxtn,sxtt = stsclr.fit_transform(xtn),stsclr.transform(xtt)
+# Making the model
+model = DecisionTreeRegressor(max_depth = 57)
+model.fit(xtn,ytn)
+
