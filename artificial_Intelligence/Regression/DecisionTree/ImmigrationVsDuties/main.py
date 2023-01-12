@@ -33,3 +33,7 @@ ppt.xlabel('Year')
 ppt.ylabel('Predicted Tariff Rate')
 ppt.plot(years,model.predict(topred),color='cyan')
 ppt.savefig('fig.png')
+
+"""
+
+"""
