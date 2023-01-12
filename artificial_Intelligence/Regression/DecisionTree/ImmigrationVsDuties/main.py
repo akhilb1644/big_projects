@@ -28,6 +28,7 @@ topred = pd.read_csv(r"2pred.csv")
 topred = topred.iloc[:,:]
 years = list(range(1971,2022))
 
+ppt.title('Year vs Predicted Tariff Rate')
 ppt.xlabel('Year')
 ppt.ylabel('Predicted Tariff Rate')
 ppt.plot(years,model.predict(topred),color='cyan')
