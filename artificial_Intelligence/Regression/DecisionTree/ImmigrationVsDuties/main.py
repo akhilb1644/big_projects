@@ -24,3 +24,11 @@ model = DecisionTreeRegressor(max_depth = 57)
 model.fit(xtn,ytn) # R-Squared value is 0.969563701289449
 
 # I will make a graph for import duties (predicted) by this model from 1970 as data doesn't exist in the source
+topred = pd.read_csv(r"2pred.csv")
+topred = topred.iloc[:,:]
+years = list(range(1971,2022))
+
+ppt.xlabel('Year')
+ppt.ylabel('Predicted Tariff Rate')
+ppt.plot(years,model.predict(topred),color='cyan')
+ppt.savefig('fig.png')
