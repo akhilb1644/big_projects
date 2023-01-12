@@ -37,4 +37,5 @@ ppt.savefig('fig.png')
 """
 As we can see, the model is not correct(as the 1990s and 2000s were times of extremely low tariffs). However, it gives a good insight into the future of 
 America as becoming more isolationist. I will update the model to be more accurate possibly by adding a religiousness percentage or some other statistic.
+I would also like to say that this machine learning model was pretty accurate on the data set, so it is a start.
 """
