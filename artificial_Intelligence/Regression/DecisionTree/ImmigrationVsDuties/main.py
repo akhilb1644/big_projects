@@ -23,7 +23,7 @@ xtn,xtt,ytn,ytt = tts(x,y,test_size=0.25,random_state=4)
 
 # Making the model
 model = DecisionTreeRegressor(max_depth = 57)
-model.fit(xtn,ytn) # R-Squared value is 0.969563701289449
+model.fit(xtn,ytn) # R-Squared value is 0.9697835849207701
 
 # I will make a graph for import duties (predicted) by this model from 1970 as data doesn't exist in the source
 topred = pd.read_csv(r"2pred.csv")
