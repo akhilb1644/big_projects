@@ -25,4 +25,5 @@ y = data.iloc[:,-1].values
 xtn,xtt,ytn,ytt = tts(x,y,test_size=0.25,random_state=4)
 
 model = DecisionTreeRegressor(max_depth = 57)
-model.fit(xtn,ytn) # Score of the model is 0.8894300622742276
+model.fit(xtn,ytn) # R-Squared score of the model is 0.8894300622742276 (that's pretty good)
+
