@@ -27,3 +27,14 @@ xtn,xtt,ytn,ytt = tts(x,y,test_size=0.25,random_state=4)
 model = DecisionTreeRegressor(max_depth = 57)
 model.fit(xtn,ytn) # R-Squared score of the model is 0.8894300622742276 (that's pretty good)
 
+ppt.title('Year v.s. Duties / Fertility / Inflation / Foreign Born Percent')
+ppt.xlabel('Year')
+ppt.ylabel('Foreign born percent / Inflation / Duty & Fertility Rates\n(per 1000 women from ages 15-44)')
+years = data.iloc[:,0].values
+
+ppt.plot(years,x[:,2],color='green')
+ppt.plot(years,y,color='blue')
+ppt.plot(years,x[:,0],color='red')
+ppt.plot(years,x[:,1],color='cyan')
+ppt.legend(['Tariff Rate','Fertility Rate','Inflation Rate','Foreign Born Percent'])
+ppt.savefig('plot1.png')
