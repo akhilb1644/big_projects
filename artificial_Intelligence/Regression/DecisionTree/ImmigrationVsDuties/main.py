@@ -27,7 +27,7 @@ model.fit(xtn,ytn) # R-Squared value is 0.969563701289449
 
 # I will make a graph for import duties (predicted) by this model from 1970 as data doesn't exist in the source
 topred = pd.read_csv(r"2pred.csv")
-topred = topred.iloc[:,:]
+topred = topred.iloc[:,:].values
 years = list(range(1971,2022))
 
 ppt.title('Year vs Predicted Tariff Rate')
