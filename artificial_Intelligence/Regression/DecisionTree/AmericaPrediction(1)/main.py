@@ -25,7 +25,7 @@ y = data.iloc[:,-1].values
 xtn,xtt,ytn,ytt = tts(x,y,test_size=0.25,random_state=4)
 
 model = DecisionTreeRegressor(max_depth = 57)
-model.fit(xtn,ytn) # R-Squared score of the model is 0.8894300622742276 (that's pretty good)
+model.fit(xtn,ytn) # R-Squared score of the model is 0.9409891945422227 (that's pretty good)
 
 ppt.title('Year v.s. Duties / Fertility / Inflation / Foreign Born Percent')
 ppt.xlabel('Year')
@@ -48,7 +48,7 @@ y1 = data1.iloc[:,-1].values
 xtn1,xtt1,ytn1,ytt1 = tts(x1,y1,test_size=0.25,random_state=4)
 
 model1 = DecisionTreeRegressor(max_depth = 57)
-model1.fit(xtn1,ytn1) # R-Squared value is 0.9698673465963251
+model1.fit(xtn1,ytn1) # R-Squared value is 0.9696876449328189
 
 topred = pd.read_csv(r"2pred.csv")
 topred = topred.iloc[:,:].values
@@ -72,6 +72,16 @@ ppt.title('Year vs Past & Projected Fertility Rate')
 ppt.plot(list(range(1914,1971)),y,color='blue')
 ppt.legend(['Projected Fertility Rate','Past Fertility Rate'])
 ppt.savefig('plot3.png')
+
+# This is another combined plot
+ppt.ylabel('Past & Projected Fertility Rate\n(newborns per 1,000 women from ages 15-44)\nwith projected duty rates.')
+ppt.title('Year vs Past & Projected Fertility and Duty Rate')
+ppt.plot(years,ferts,color='cyan')
+ppt.plot(list(range(1914,1971)),y,color='blue')
+ppt.plot(list(range(1914,1971)),y1,color='green')
+ppt.plot(list(range(1971,2022)),duties,color='red')
+ppt.legend(['Projected Fertility Rate','Past Fertility Rate','Past Duty Rates','Present Duty Rates'])
+ppt.savefig('plot4.png')
 
 """
 Overall, the modern predictions of the model aren't very accurate. However, this is partially because the duty data comes from the predicted duties(in
