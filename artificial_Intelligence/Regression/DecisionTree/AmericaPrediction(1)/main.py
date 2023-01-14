@@ -38,3 +38,14 @@ ppt.plot(years,x[:,0],color='red')
 ppt.plot(years,x[:,1],color='cyan')
 ppt.legend(['Tariff Rate','Fertility Rate','Inflation Rate','Foreign Born Percent'])
 ppt.savefig('plot1.png')
+
+# With the previous model for duties, can we make a model out of that plotting another potential "fertility cycle"
+
+data1 = pd.read_csv('iif.csv')
+x1 = data1.iloc[:,:-1].values
+y1 = data1.iloc[:,-1].values
+
+xtn1,xtt1,ytn1,ytt1 = tts(x1,y1,test_size=0.25,random_state=4)
+
+model1 = DecisionTreeRegressor(max_depth = 57)
+model1.fit(xtn1,ytn1) # R-Squared value is 0.9698673465963251
