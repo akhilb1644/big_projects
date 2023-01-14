@@ -80,7 +80,7 @@ ppt.plot(years,ferts,color='cyan')
 ppt.plot(list(range(1914,1971)),y,color='blue')
 ppt.plot(list(range(1914,1971)),y1,color='green')
 ppt.plot(list(range(1971,2022)),duties,color='red')
-ppt.legend(['Projected Fertility Rate','Past Fertility Rate','Past Duty Rates','Present Duty Rates'])
+ppt.legend(['Projected Fertility Rate','Past Fertility Rate','Past Duty Rates','Projected Duty Rates'])
 ppt.savefig('plot4.png')
 
 """
