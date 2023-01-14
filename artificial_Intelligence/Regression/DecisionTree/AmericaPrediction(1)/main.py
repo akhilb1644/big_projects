@@ -49,3 +49,10 @@ xtn1,xtt1,ytn1,ytt1 = tts(x1,y1,test_size=0.25,random_state=4)
 
 model1 = DecisionTreeRegressor(max_depth = 57)
 model1.fit(xtn1,ytn1) # R-Squared value is 0.9698673465963251
+
+topred = pd.read_csv(r"2pred.csv")
+topred = topred.iloc[:,:].values
+years = list(range(1971,2022))
+
+duties = model1.predict(topred)
+topred = np.column_stack((topred,duties))
