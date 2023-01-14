@@ -78,5 +78,8 @@ Overall, the modern predictions of the model aren't very accurate. However, this
 ImmigrationvsDuties folder). Overall, instead of predicted how many children a certain age group will put into the world, it predicts the overall "health"
 of American civilization. To be fair, the early 2000s was pretty tumultuous(it saw the start and main part of an event called the Great Recession), which is a 
 dip in plot 3 graph. However, I don't really get the peak we are in now. However, either the model is incorrect, or it has figured out what is coming a few years 
-down the line(maybe a revival in isolationism and increase in births due to the work from home trend).
+down the line(maybe a revival in isolationism and increase in births due to the work from home trend). Another point for why this graph is off is because in this
+age, most of the economy is based off of debt and the real economy has been slowly dying from the 1970s as we have tried to live in the fake reality that we can
+live like the Baby Boomers. This could mean that extreme American isolationism is coming, and that the fertility rate will tick up from being around 55 births per
+1000 women of the 15-44 age group.
 """
