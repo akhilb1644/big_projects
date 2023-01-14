@@ -56,3 +56,19 @@ years = list(range(1971,2022))
 
 duties = model1.predict(topred)
 topred = np.column_stack((topred,duties))
+
+ferts = model.predict(topred)
+
+ppt.clf()
+ppt.xlabel('Year')
+ppt.ylabel('Predicted Fertility Rate\n(newborns per 1,000 women from ages 15-44)')
+ppt.title('Year vs Predicted Fertility Rate')
+ppt.plot(years,ferts,color='cyan')
+ppt.savefig('plot2.png')
+
+# This is a combined plot
+ppt.ylabel('Past & Projected Fertility Rate\n(newborns per 1,000 women from ages 15-44)')
+ppt.title('Year vs Past & Projected Fertility Rate')
+ppt.plot(list(range(1914,1971)),y,color='blue')
+ppt.legend(['Past Fertility Rate','Projected Fertility Rate'])
+ppt.savefig('plot3.png')
