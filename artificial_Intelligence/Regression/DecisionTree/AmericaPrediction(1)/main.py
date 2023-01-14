@@ -72,3 +72,11 @@ ppt.title('Year vs Past & Projected Fertility Rate')
 ppt.plot(list(range(1914,1971)),y,color='blue')
 ppt.legend(['Past Fertility Rate','Projected Fertility Rate'])
 ppt.savefig('plot3.png')
+
+"""
+Overall, the modern predictions of the model aren't very accurate. However, this is partially because the duty data comes from the predicted duties(in
+ImmigrationvsDuties folder). Overall, instead of predicted how many children a certain age group will put into the world, it predicts the overall "health"
+of American civilization. To be fair, the early 2000s was pretty tumultuous(it saw the start and main part of an event called the Great Recession), which is a 
+dip in plot 3 graph. However, I don't really get the peak we are in now. However, either the model is incorrect, or it has figured out what is coming a few years 
+down the line(maybe a revival in isolationism and increase in births due to the work from home trend).
+"""
