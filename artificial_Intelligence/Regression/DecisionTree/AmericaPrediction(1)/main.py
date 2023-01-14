@@ -70,7 +70,7 @@ ppt.savefig('plot2.png')
 ppt.ylabel('Past & Projected Fertility Rate\n(newborns per 1,000 women from ages 15-44)')
 ppt.title('Year vs Past & Projected Fertility Rate')
 ppt.plot(list(range(1914,1971)),y,color='blue')
-ppt.legend(['Past Fertility Rate','Projected Fertility Rate'])
+ppt.legend(['Projected Fertility Rate','Past Fertility Rate'])
 ppt.savefig('plot3.png')
 
 """
