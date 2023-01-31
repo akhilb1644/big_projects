@@ -1,6 +1,6 @@
 <h1 align="center">You have reached the repository where...</h1>
 <p align="center">America has increased tariffs on foreign products and is in another golden age today(except that its not).</p>
-<p align="center">____________________________________________________________________________________________________________________________________</p>
+<p align="center">----------------------------------------------------------------------------------------------------------------------------------------</p>
 <p3>  Today, America finds itself in a crazy world. There are open protests in the country, people aren't marrying young(its a sign that there is a 
   problem in society), and people aren't having many children relative to the population(its also a sign that there is a problem in society). I know
   someone will talk about the material improvements in standard of living, but the birth rate itself can say a lot. The birth rate can tell whether
