@@ -22,3 +22,9 @@
   in the United States. You can even trace this back to the 1600s when mercantilism began to rise(I would say that part of this could be because of Spain's
   trade power in the early 1500s) in some way. But overall, the general trend still stands: when there is more competition, people want to get rid of the
   competition</p3>
+
+<p></p>
+
+<p3>  The reason I have wrote two paragraphs is so that you understand the reason I chose certain data. In the next iteration, I will try to make sure that
+  my projection for the period after 1970 is actually accurate, and using the above points mentioned in the above two paragraphs. Hope you see my next
+  iteration.</p3>
