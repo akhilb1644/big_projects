@@ -13,3 +13,12 @@
   happened when there was a decrease in birth rates. While I have more work to do to make a true predictor for America's future, I believe that I am not
   too far away to do so.</p3>
   
+ <p></p>
+ 
+<p3>  Now on to tariffs. I would say that tariffs lead to nice short term gains, which is why I am using tariffs in my data. However, I would not say that
+  a society can be protectionist forever as that would forego technological advancement if done for a long enough time, and I would not say that free trade
+  forever isn't good as it depresses the wages of many for the country that has a trade deficit, which is very easy in our modern world. I would also say
+  that tariffs come when a society feels uncompetitive, like what happened in many European countries during the Long Depression and the Hawley-Smoot Tariff
+  in the United States. You can even trace this back to the 1600s when mercantilism began to rise(I would say that part of this could be because of Spain's
+  trade power in the early 1500s) in some way. But overall, the general trend still stands: when there is more competition, people want to get rid of the
+  competition</p3>
