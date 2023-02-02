@@ -19,5 +19,5 @@ hard times(depends on who you are or how "hard" the times were, but most people 
 While the residence you and your children live in is paid with debt, and the costs of food might be funded with debt, that doesn't mean that you will
 have another child because you can take out debt. Anyway, I would like to move on to inflation.</p>
 
-<h6 align="center>Inflation</h6>
+<h6 align="center">Inflation</h6>
 
