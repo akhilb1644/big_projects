@@ -15,4 +15,9 @@ chilling and dowing whatever you felt like. There wasn't honour. Take the Vietna
 they didn't have to go beyond what their ancestors did. This is one reason why the Vietnam War wasn't a popular war(another one is linked to television, or
 maybe television led to an ideological shift for the Baby Boomers). Back to debt, I just want to say that one can't have kids and then pay for the extra kid 
 with the debt(some people might, who knows), but for the most part, debt is usually to help sustain their life in hard times, or maybe bathe in luxuries during
-hard times(depends on who you are or how "hard" the times were, but most people decide not to have another child when they have to be funded with debt.</p>
+hard times(depends on who you are or how "hard" the times were, but most people decide not to have another child when they have to be funded with debt.
+While the residence you and your children live in is paid with debt, and the costs of food might be funded with debt, that doesn't mean that you will
+have another child because you can take out debt. Anyway, I would like to move on to inflation.</p>
+
+<h6 align="center>Inflation</h6>
+
