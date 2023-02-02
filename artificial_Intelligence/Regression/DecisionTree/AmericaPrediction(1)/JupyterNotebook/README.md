@@ -21,6 +21,8 @@ sustain their life in hard times, or maybe bathe in luxuries during hard times(d
 another child when they have to be funded with debt. While the residence you and your children live in is paid with debt, and the costs of food might be funded with
 debt, that doesn't mean that you will have another child because you can take out debt. Anyway, I would like to move on to inflation.</p>
 
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+
 <h6 align="center">Inflation</h6>
 
 <p>Inflation, a metric that some countries just can't avoid being near the top. But more importantly, an indicator on how much energy the economy has. High inflation
