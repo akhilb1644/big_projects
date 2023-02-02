@@ -42,3 +42,13 @@ of the rapid rise in spending coupled with the expenses of the Vietnam War, whic
 world due to globalization, a new crisis would come: the 1973 Recession!</p>
 
 <a href="https://files.stlouisfed.org/files/htdocs/publications/review/69/12/Battle_Dec1969.pdf">Federal Reserve Report on Rising Inflation of the 60s</a>
+
+<h6 align="center">Tariffs</h6>
+
+<p>As we all know, tariffs help to protect the economy. Tariffs are generally a reaction to economic problems, like the increased protectionism after the 
+Long Depression(late 1800s). Fun fact: the Long Depression was called the Great Depression before what we call the Great Depression happened. During the 1920s,
+the economy was pretty sluggish in terms of growth, which was partially manifested in tariff. During the Great Depression, tariff rates went through the roof
+in an effort to stop the Great Depression(it didn't work). While it might work for smaller scale recessions, the Great Depression affected the economy so deeply
+that even this didn't work. A full revamp of the economy was needed, which is where FDR comes. America recovers, and decideds to spread its power via the
+Bretton Woods Agreement near the end of WW2. When there is one economic superpower, it is easy to get everypne on the same page like the Bretton Woods agreement
+did. In the next prediction, there will be more to say on tariffs other than a basic rundown.</p>
