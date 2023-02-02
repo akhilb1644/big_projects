@@ -21,7 +21,7 @@ sustain their life in hard times, or maybe bathe in luxuries during hard times(d
 another child when they have to be funded with debt. While the residence you and your children live in is paid with debt, and the costs of food might be funded with
 debt, that doesn't mean that you will have another child because you can take out debt. Anyway, I would like to move on to inflation.</p>
 
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+<iframe src="https://giphy.com/embed/3orif9UnCMr3EEeCti" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/season-7-the-simpsons-7x6-3orif9UnCMr3EEeCti">via GIPHY</a></p>
 
 <h6 align="center">Inflation</h6>
 
