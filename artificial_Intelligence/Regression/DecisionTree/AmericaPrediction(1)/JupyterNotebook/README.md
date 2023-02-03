@@ -50,3 +50,20 @@ in an effort to stop the Great Depression(it didn't work). While it might work f
 that even this didn't work. A full revamp of the economy was needed, which is where FDR comes. America recovers, and decideds to spread its power via the
 Bretton Woods Agreement near the end of WW2. When there is one economic superpower, it is easy to get everypne on the same page like the Bretton Woods agreement
 did. In the next prediction, there will be more to say on tariffs other than a basic rundown.</p>
+
+<h6 align="center">Foreign Born Percentage</h6>
+
+<p>Immigration, a hotly debated issue in American politics. I just want to do a quick overview on immigration's effects on society(its not really biased). First,
+immigration can add culture to a society, like how hot dogs are considered American food even though they were origninally German food. Second, in our moden world
+where birth rates are plummeting, immigration can keep a constant stream of young workers even if the local birth rate is sluggish. However, immigration can also
+threaten the culture of a society, which is why countries like Japan, despite having some of the lowest birth rates in the world, doesn't want to support 
+immigration so that the homogenity of Japan. However, in America, a homogenous culture is constantly updated as the foreign born population remains constant or
+declines in its share of the population, like the hot dog example. Another example is in antebellum America, many Scandinavians settled in America, and the post
+World War II era and even now, there is an American cultural interest in Scandanavian culture(like Minnesota Vikings or all the Viking movies you might've heard
+about). Overall, there is not much data about immigration other than decreasing immigration rates were seen from the 1910s and continued to the 1970s, and the
+time after the Great Depression was a time of gains for many. Maybe they are possibly correlated. In the next analysis, I will look deeper into immigration as 
+spoiler alert: immigration looks like a stable cycle of predicting future America.</p>
+
+<h3 align="center">Alternate History Part</h3>
+
+![image](https://user-images.githubusercontent.com/48994987/216721615-d489fcc7-1154-477c-93e6-57fcede90b15.png)
