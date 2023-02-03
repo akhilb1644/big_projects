@@ -67,3 +67,11 @@ spoiler alert: immigration looks like a stable cycle of predicting future Americ
 <h3 align="center">Alternate History Part</h3>
 
 ![image](https://user-images.githubusercontent.com/48994987/216721615-d489fcc7-1154-477c-93e6-57fcede90b15.png)
+
+<p>So, as you can see, the fertility rate of our time(in this parallel universe) is high, just like when the Baby Boomers were little(what a nice time to be alive).
+Anyway, the 1970s sees a rise in fertility rates. I would say that is because the model picked up on the post Great Depression high inflation and increase in 
+fertility rates and thought that this is just like the Great Depression(it ain't). I would expect the opposite as the 1970s weren't a great time to be alive.
+The government literally had to ration car fuel(because the inflation was so high). Anyway, we move into the terrible 1980s(also makes little sense as Reagan
+saw great economic growth in the short term with the long term effects of his policies being debated). America then begins to increase tariffs, and now, its 
+citizens live life like they did 70 years ago. Now of course, we all know that that isn't true, there are recessions and many other factors that make predictions
+wrong, and not: this guy will win the election, but: America will experience a trouble in the coming years. But overall, I'd look forward to the next prediction.</p>
