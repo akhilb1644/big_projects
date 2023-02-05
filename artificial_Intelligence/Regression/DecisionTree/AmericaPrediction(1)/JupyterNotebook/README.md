@@ -75,3 +75,5 @@ The government literally had to ration car fuel(because the inflation was so hig
 saw great economic growth in the short term with the long term effects of his policies being debated). America then begins to increase tariffs, and now, its 
 citizens live life like they did 70 years ago. Now of course, we all know that that isn't true, there are recessions and many other factors that make predictions
 wrong, and not: this guy will win the election, but: America will experience a trouble in the coming years. But overall, I'd look forward to the next prediction.</p>
+
+<a href="https://github.com/akhilmanhattan/cliodynamics/tree/main/America/1">The Next Prediction(at least its not an alternate history)</a>
