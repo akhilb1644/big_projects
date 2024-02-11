@@ -7,5 +7,8 @@ public class Main {
 		Order o = new Order();
 		LocalOrder lo = new LocalOrder();
 		Building b = new Building();
+		BigOrder bo = new BigOrder();
+		Warehouse w = new Warehouse();
+		City c = new City();
 	}
 }

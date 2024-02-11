@@ -2,6 +2,7 @@ public class Building {
 	protected String name;
 	protected short x;
 	protected short y;
+	protected City city;
 
 	// Constructors
 
@@ -9,12 +10,14 @@ public class Building {
 		name = "Unknown";
 		x = 0;
 		y = 0;
+		city = new City();
 	}
 
-	public Building(String name,short x,short y) {
+	public Building(String name,short x,short y,City city) {
 		this.name = name;
 		this.x = x;
 		this.y = y;
+		this.city = new City(city);
 	}
 
 	// Copy Constructor
@@ -23,6 +26,7 @@ public class Building {
 		name = building.getName();
 		x = building.getX();
 		y = building.getY();
+		city = building.getCity();
 	}
 
 	// Getters
@@ -39,6 +43,10 @@ public class Building {
 		return y;
 	}
 
+	public City getCity() {
+		return city;
+	}
+
 	// Setters 
 
 	public void setName(String name) {
@@ -52,4 +60,8 @@ public class Building {
 	public void setY(short y) {
 		this.y = y;
 	}
+
+	public void setCity(City city) {
+		this.city = new City(city);
+	} 
 }
