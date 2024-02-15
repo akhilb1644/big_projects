@@ -37,6 +37,6 @@ public class City {
 	}
 
 	public void setWarehouse(Warehouse warehouse) { // Always use this method to set warehouse, there is no other way.
-		this.warehouse = warehouse;
+		this.warehouse = new Warehouse(warehouse);
 	}
 }
